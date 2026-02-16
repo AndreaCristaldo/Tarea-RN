@@ -1,0 +1,10 @@
+0: pred=Ankle boot true=Ankle boot
+1: pred=Pullover true=Pullover
+2: pred=Trouser true=Trouser
+3: pred=Trouser true=Trouser
+4: pred=Shirt true=Shirt
+5: pred=Trouser true=Trouser
+6: pred=Coat true=Coat
+7: pred=Shirt true=Shirt
+8: pred=Sandal true=Sandal
+9: pred=Sneaker true=Sneaker

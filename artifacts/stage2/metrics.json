@@ -1,0 +1,5 @@
+{
+  "test_loss": 0.4347894489765167,
+  "test_accuracy": 0.8395000100135803,
+  "encoder_frozen": true
+}
