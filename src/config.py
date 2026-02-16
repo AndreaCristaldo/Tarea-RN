@@ -24,3 +24,8 @@ class Config:
     artifacts: Path = root / "artifacts"
     stage1_dir: Path = artifacts / "stage1"
     stage2_dir: Path = artifacts / "stage2"
+
+ # Crear carpetas
+    def create_dirs(self):
+        self.stage1_dir.mkdir(parents=True, exist_ok=True)
+        self.stage2_dir.mkdir(parents=True, exist_ok=True)
