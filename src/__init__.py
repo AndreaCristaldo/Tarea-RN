@@ -1,0 +1,1 @@
+# permite: python -m src.train_stage1_autoencoder
