@@ -1,0 +1,103 @@
+[33mcommit e6668a07296dc4ebe8612a53b3deb56e81c74cd1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 16:50:32 2026 -0300
+
+    add: trained models, metrics, and evaluation outputs
+
+[33mcommit 60cd6c15e9b41a30dec7b034b8942c1484ebf270[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 16:45:23 2026 -0300
+
+    add: evaluate script for final model
+
+[33mcommit dd7e2d94395dbb3ed0c35855e22061fd82d3cefd[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 16:18:24 2026 -0300
+
+    final
+
+[33mcommit d76fbb0484b34b763a4c78c928fcc833ca57fcad[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 16:13:02 2026 -0300
+
+    merge etapa2
+
+[33mcommit 626cef58d3ff8b8ac88c392fda572dd824ecc347[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 16:07:18 2026 -0300
+
+    chore: track keras models with git lfs
+
+[33mcommit 25677652b3b01b922dcb49f7d4d25e804719c681[m
+Merge: 407fc35 f9cbcb3
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 15:58:04 2026 -0300
+
+    Merge branch 'main' of https://github.com/AndreaCristaldo/Tarea-RN
+
+[33mcommit 407fc352c59f29a7456d8acbe8aea2d448b9db07[m[33m ([m[1;31mTarea-RN/etapa2[m[33m, [m[1;32metapa2[m[33m)[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 15:42:57 2026 -0300
+
+    etapa2: clasificador con encoder congelado
+
+[33mcommit 716a99c9940c3778117ff164314805aaed7a0e4c[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 15:31:51 2026 -0300
+
+    etapa2
+
+[33mcommit f9cbcb3a4a2ec88e958806063976b14afac74809[m
+Merge: dd05c04 59c6be9
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 14:58:39 2026 -0300
+
+    Merge branch 'etapa1'
+
+[33mcommit dd05c04f370a2c84802243dca5acee7d9d27f359[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 14:52:10 2026 -0300
+
+    art
+
+[33mcommit 92f63920dd99b968e2778f888f75362b2369738e[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 14:49:50 2026 -0300
+
+    artifacts
+
+[33mcommit ae7b207081a6c4ed6b29bc751162697e39db3f19[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 14:43:29 2026 -0300
+
+    crear carpetas
+
+[33mcommit 59c6be969f9a969c6de63b994bc211b2c658a5b7[m[33m ([m[1;31mTarea-RN/etapa1[m[33m, [m[1;32metapa1[m[33m)[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 14:34:17 2026 -0300
+
+    rename1
+
+[33mcommit 0006b9130f4d6d0223c6086ece7a2fd111f32ff0[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 14:30:46 2026 -0300
+
+    Agregar etapa1.py a src/
+
+[33mcommit c558ef8c65045fe4cf4b7c3aaae9b61644888472[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 14:17:53 2026 -0300
+
+    readme
+
+[33mcommit 84e88c93ff8e72e8bb6f0186bd39e1dc47eb4cb5[m[33m ([m[1;31mTarea-RN/main[m[33m, [m[1;31mTarea-RN/HEAD[m[33m)[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 14:08:47 2026 -0300
+
+    first commit
+
+[33mcommit 2459bf55ec4571d960f7e94b851b1698690c44ce[m
+Author: Andrea Cristaldo <andrea.cristaldo@fiuna.edu.py>
+Date:   Mon Feb 16 12:26:29 2026 -0300
+
+    Estructura base para RN pipeline
